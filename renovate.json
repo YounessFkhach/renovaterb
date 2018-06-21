@@ -1,8 +1,6 @@
 {
   "extends": [
-    "config:base"
-  ],
-  "digest": {
-    "automerge": true
-  }
+    "config:base",
+    "default:automergeDigest"
+  ]
 }
