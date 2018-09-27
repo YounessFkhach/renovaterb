@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-       - image: circleci/ruby:2.5.1-stretch-node-browsers@sha256:4fab739e108f73f804b25a9941d75f1e1199dedd155c6004fc4f305b517f1007
+       - image: circleci/ruby:2.5.1-stretch-node-browsers@sha256:bcd737a3b58a2d6bf503cb5375edd5970fd6097214bf99364e1045b65229f5c5
       
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
